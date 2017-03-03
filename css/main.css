@@ -62,6 +62,10 @@ h1 {
   text-align: center;
 }
 
+.pad-l-1-4 {
+  padding-left: .375rem
+}
+
 .i-awr {
   background-image: url("../images/awr-logo.svg");
 }
