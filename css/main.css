@@ -95,6 +95,7 @@ h1 {
 .btn-ban {
   background-color: #ddd;
   border-color: #ddd;
+  transition: background-color .25s, border-color .25s;
 }
 
 .btn-ban:hover {
@@ -160,6 +161,10 @@ h1 {
 .dl-group-inline dt,
 .dl-group-inline dd {
   display: inline-block;
+}
+
+.current {
+  border-color: #ddd;
 }
 
 @media only screen and (min-width: 25em) {
