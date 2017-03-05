@@ -66,6 +66,15 @@ h1 {
   padding-left: .375rem
 }
 
+.logo {
+  width: 50%;
+  vertical-align: middle;
+}
+
+.push-s {
+  margin: 0 0 1.3rem;
+}
+
 .i-awr {
   background-image: url("../images/awr-logo.svg");
 }
@@ -147,6 +156,17 @@ h1 {
 .under-dark:hover {
   border-color: #333;
 }
+
+.btn-portfolio {
+  background-color: #1b2e70;
+  border: none;
+  color: #fff;
+}
+
+.btn-portfolio:hover {
+  background-color: #051a62;
+}
+
 /* ----- =Bio ----- */
 
 .bg-red {
@@ -177,6 +197,10 @@ h1 {
 
   h1 {
     text-align: left;
+  }
+
+  .push-s {
+    margin: 0;
   }
 
   .t-left-m {
