@@ -1,5 +1,5 @@
 html {
-  font-family: Baskerville, serif;
+  font-family: Georgia, serif;
 }
 
 h1,
@@ -9,7 +9,7 @@ h4,
 .nav,
 .icon-label,
 .pt-sans {
-  font-family: "PT Sans", sans-serif;
+  font-family: "Shree Devanagari 714", sans-serif;
 }
 
 .masthead {
@@ -19,6 +19,10 @@ h4,
 
 h1 {
   font-weight: normal;
+}
+
+.georgia {
+  font-family: Georgia, serif;
 }
 
 .text-lg {
